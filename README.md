@@ -1,31 +1,63 @@
-# 👋 Hi, I'm Kevin Kibet
+# Hi there, I'm Kevin Kibet! 👋
 
-Welcome to my GitHub profile! I am a passionate Software Engineer focused on building modern web applications, scalable database schemas, and robust backend services.
+I build full-stack web applications and modern software ecosystems. I like turning rough ideas into shipped, usable software, from backend APIs and databases to intuitive user interfaces.
+
+> Open to collaborations on full-stack web apps, MERN ecosystems, and open-source builds.
+
+## About Me
+
+- 🚀 **Currently building products end to end:** idea, prototype, launch, iterate
+- ⚙️ **Specializing in MERN:** Building seamless architectures with MongoDB, Express, React, and Node.js
+- 🌱 **Sharpening my skills in:** Cloud infrastructure, system design, and scalable API delivery
+- 👯 **Looking to collaborate on:** Full-stack software applications and backend systems
+- 💬 **Ask me about:** JavaScript, TypeScript, Node ecosystem, and responsive web styling
+- ⚡ **Fun fact:** Turning complex logical problems into elegant code is my daily fuel.
+
+## 🛠 What I'm Working On
+
+| Focus | What it looks like |
+| :--- | :--- |
+| 🧱 **Product building** | Taking web app ideas from zero to shipped, with solid architecture and smooth frontend layouts. |
+| ⚙️ **Full-stack delivery** | Designing robust Node/Express backends, structuring clean databases, and engineering scalable ecosystems. |
+| 🌐 **Modern Interfaces** | Crafting highly responsive, user-friendly storefronts and applications with React. |
+
+## 💻 My Skills
+
+### 🌐 Core Web Development
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+
+### 🗄️ Data & Backend
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
+
+### 🛠️ Tools & Platforms
+![](https://shields.io) ![](https://shields.io) ![](https://shields.io) ![](https://shields.io)
 
 ---
 
-### 📂 Featured Repositories
+## 📁 Featured Projects
 
-Below are my primary active projects. Click on any link to view the production codebases, backend logic, and user interface implementations:
-
-*   🌐 **[Fullstack-E-commerce-Store](https://github.com)** — A complete, modern digital storefront layout built with cutting-edge web technologies.
-*   🏢 **[Real-Estate-Mern-App](https://github.com)** — A fully operational property marketplace platform designed using MongoDB, Express, React, and Node.js.
-*   ⚙️ **[Modern-Mern-Backend](https://github.com)** — A structured, modular, and highly scalable API workspace following backend architecture best practices.
-*   📦 **[Inventory-Management-System](https://github.com)** — An automated platform engineered to track warehouse assets, manage orders, and update logs in real-time.
+*   🌐 **[Fullstack-E-commerce-Store](https://github.com)** — A complete, end-to-end modern digital storefront system.
+*   🏢 **[Real-Estate-Mern-App](https://github.com)** — A responsive property marketplace application built using the full MERN stack.
+*   ⚙️ **[Modern-Mern-Backend](https://github.com)** — A robust, scalable API ecosystem built with Node.js and Express.
+*   📦 **[Inventory-Management-System](https://github.com)** — An optimized platform designed to seamlessly track stock, orders, and logistics.
 
 ---
 
-### 💻 Tech Stack & Core Competencies
+## 📊 GitHub Stats
 
-Here are the languages, frameworks, and tools I actively use across my engineering workspace:
+<p align="center">
+  <img src="https://vercel.app" alt="Kevin's GitHub Stats" width="48%" />
+  <img src="https://vercel.app" alt="Top Languages" width="48%" />
+</p>
 
-*   **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3
-*   **Frontend Ecosystem:** React.js, Next.js, Responsive UI Styling
-*   **Backend & Databases:** Node.js, Express.js, MongoDB
+<p align="center">
+  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%"/>
+</p>
 
 ---
 
-### ⚡ About Me & Goals
-- 🔭 **Current Focus:** Actively building and maintaining full-stack application ecosystems.
-- 💬 **Ask Me About:** MERN stack engineering, RESTful API design, or database management.
-- 🚀 **Core Value:** Writing clean, readable, self-documenting, and performance-optimized code.
+## 💬 Favorite Quote
+"The only way to do great work is to love what you do." - Steve Jobs
+
+## 🤝 Connect with Me
+Thanks for stopping by! If you're building something interesting or want to discuss full-stack engineering, let's talk.
