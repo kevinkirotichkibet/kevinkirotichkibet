@@ -43,16 +43,12 @@ I build full-stack web applications and modern software ecosystems. I like turni
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Summary
 
-<p align="center">
-  <img src="https://vercel.app" alt="Kevin's GitHub Stats" width="48%" />
-  <img src="https://vercel.app" alt="Top Languages" width="48%" />
-</p>
+Click the panel links below to inspect live timeline summary activities natively through the interface platform:
 
-<p align="center">
-  <img src="https://herokuapp.com" alt="GitHub Streak" width="97%"/>
-</p>
+*   📈 **[View My Contribution Activity Overview](https://github.com)** — Track full history commit graphs, pull requests, and repository distribution cycles.
+*   📂 **[Explore Public Repositories (63)](https://github.com)** — Inspect all active deployments, production code architecture, and full-stack software templates.
 
 ---
 
